@@ -1,0 +1,13 @@
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/10.jpg 261,524,1477,1074,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/112.jpg 1145,201,1700,674,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/127.jpg 1019,463,1356,755,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/28.jpg 2029,303,2236,482,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/29.jpg 1381,251,1533,438,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/30.jpg 979,202,1227,428,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/42.jpg 2383,525,3048,765,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/44.jpg 1909,568,2350,868,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/47.jpg 1992,221,2263,633,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/49.jpg 649,86,913,607,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/7.jpg 2230,455,2935,765,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/74.jpg 1773,188,2364,599,0
+D:\code\水果项目\greatwall\yolov7-tf2-master\VOCdevkit/VOC2007/JPEGImages/9.jpg 1103,531,1531,711,0
